@@ -26,5 +26,4 @@ A = \begin{bmatrix}
 $$
 **矩阵的转置**：
 
-![image-20180521145210946](https://ws3.sinaimg.cn/large/006tKfTcgy1friyy67cgzj30k006kwf1.jpg)
-
+<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1friyy67cgzj30k006kwf1.jpg" width="80%" />
