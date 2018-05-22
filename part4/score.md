@@ -22,7 +22,7 @@ $$
 
 ​	这时就需要另外2个指标：
 
- 	
+
 $$
 精确率(precision) = TP/(TP+FP)
 $$
@@ -41,15 +41,15 @@ $$
 
 ​	在信息检索领域，精确率和召回率又被称为**查准率**和**查全率**，
 
-​	**查准率**＝检索出的相关信息量 / 检索出的信息总量
-	**查全率**＝检索出的相关信息量 / 系统中的相关信息总量
+​        **查准率**＝检索出的相关信息量 / 检索出的信息总量
+
+​	**查全率**＝检索出的相关信息量 / 系统中的相关信息总量
 
 ​	通俗的说，precison表示预测的样本中有多少是正确的，recall表示所有正样本中有多少是正确的。
 
-​	有的时候，我们要同时衡量recall和precision，于是对它们做调和平均数(Harmonic
-mean)。
+​	有的时候，我们要同时衡量recall和precision，于是对它们做调和平均数(Harmonic mean)。
 $$
-F1 = \frac {2*Precison*Recall} {Precision + Recall}
+F1 = \frac {2⋅Precison⋅Recall} {Precision + Recall}
 $$
 ​	可以看到，recall 体现了分类模型对正样本的识别能力，recall 越高，说明模型对正样本的识别能力越强，precision 体现了模型对负样本的区分能力，precision越高，说明模型对负样本的区分能力越强。F1-score 是两者的综合。F1-score 越高，说明分类模型越稳健。
 
@@ -57,7 +57,7 @@ $$
 $$
 F_{β}=\frac{(1+β^2)TP}{(1+β^2)TP+β^2FN+FP}=\frac{(1+β^2)⋅Precision⋅Recall}{β^2⋅Precision+Recall}
 $$
-​	可以看到，当 β=1，那么Fβ就退回到F1了，ββ 其实反映了模型分类能力的偏好，β>1 的时候，precision的权重更大，为了提高Fβ，我们希望precision 越小，而recall 应该越大，说明模型更偏好于提升recall，意味着模型更看重对正样本的识别能力； 而 β<1的时候，recall 的权重更大，因此，我们希望recall越小，而precision越大，模型更偏好于提升precision，意味着模型更看重对负样本的区分能力。
+​	可以看到，当 β=1，那么Fβ就退回到F1了，β其实反映了模型分类能力的偏好，β>1 的时候，precision的权重更大，为了提高Fβ，我们希望precision 越小，而recall 应该越大，说明模型更偏好于提升recall，意味着模型更看重对正样本的识别能力； 而 β<1的时候，recall 的权重更大，因此，我们希望recall越小，而precision越大，模型更偏好于提升precision，意味着模型更看重对负样本的区分能力。
 
 
 
@@ -68,3 +68,6 @@ https://www.wikiwand.com/en/F1_score
 https://blog.csdn.net/matrix_space/article/details/50384518
 
 https://www.zhihu.com/question/19645541
+
+
+
