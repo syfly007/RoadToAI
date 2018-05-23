@@ -33,7 +33,7 @@ $$
 
 ​	为了便于形象理解，请看如下的文氏图。
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/640px-Precisionrecall.svg.png?1526869494881)
+![precision and recall](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/640px-Precisionrecall.svg.png?1526869494881)
 
 
 
