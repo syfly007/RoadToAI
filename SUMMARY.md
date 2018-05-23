@@ -18,8 +18,10 @@
   * [递归神经网络](part3/convNetwork.md)
   * [序列模型](part3/SequenceModel.md)
   * [生成对抗网络](part3/gan.md)
-  
 * [提高表现](part4/README.md)
+  * [偏差、方差]()
+  * [梯度消失、梯度爆炸]()
   * [正则化]()
+  * [drop out]()
   * [调整超参数]()
   * [评价指标：accuracy, recall, precision, F1](part4/score.md)
