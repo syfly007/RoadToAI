@@ -1,3 +1,8 @@
 {
-    "plugins": ["mathjax","-lunr", "-search", "search-plus"]
+  "plugins": [
+    "mathjax",
+    "-lunr",
+    "-search",
+    "search-plus"
+  ]
 }
