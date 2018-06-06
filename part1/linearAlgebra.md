@@ -27,3 +27,5 @@ $$
 **矩阵的转置**：
 
 <img src="https://ws3.sinaimg.cn/large/006tKfTcgy1friyy67cgzj30k006kwf1.jpg" width="80%" />
+
+**矩阵的逆：**和当前矩阵A相乘为单位矩阵的矩阵，写作该矩阵的-1次方（$A^{-1}$）
