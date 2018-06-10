@@ -144,7 +144,7 @@ $$
 
 [sklean](https://github.com/syfly007/algorithm/blob/master/MachineLearning/LogisticRegression/logistic_Sklearn.ipynb)
 
-[tensorflow](https://github.com/syfly007/algorithm/blob/master/MachineLearning/LogisticRegression/logistic_tf.ipynb)
+[tensorflow](https://github.com/syfly007/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/logistic_regression.ipynb)
 
 ## 参考资料：
 

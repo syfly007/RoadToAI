@@ -146,7 +146,11 @@ $$
 
 
 
+## 实践
 
+[sklean](https://github.com/syfly007/algorithm/blob/master/MachineLearning/LogisticRegression/logistic_Sklearn.ipynb)
+
+[tensorflow](https://github.com/syfly007/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/logistic_regression.ipynb)
 
 
 

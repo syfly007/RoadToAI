@@ -28,3 +28,5 @@
   * [drop out]()
   * [调整超参数]()
   * [评价指标：accuracy, recall, precision, F1](part4/score.md)
+* [强化学习](part5/ReinforceLearning.md)
+
